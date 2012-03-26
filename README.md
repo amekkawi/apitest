@@ -3,9 +3,15 @@
 
 Even in a world of cheap storage, sometimes disk usage means a lot.
 Backups can take forever and unnecessarily large files can eat up bandwidth.
-Disk Usage Reports provides you with rich web-based usage reports to help keep things under control.
+Disk Usage Reports provides you with **rich web-based usage reports** to help keep things under control.
 
-Get started at http://diskusagereports.com!
+Find out more at http://diskusagereports.com!
+
+Demo
+-----------
+
+Visit http://diskusagereports.com/demo/ for a live demo.
+
 
 Quick Start
 -----------
@@ -45,6 +51,8 @@ Quick Start
 Getting Help
 ------------
 
+Full documentation is available at http://diskusagereports.com/docs/.
+
 To get assistance, please contact me at help@diskusagereports.com.
 
 You may also submit issues at https://github.com/amekkawi/diskusagereports/issues (requires free GitHub account).
@@ -69,3 +77,14 @@ NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPO
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
 OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Image Credits
+---------------
+
+Images: folder-closed.png, folder-open.png, folder-large.png  
+By: Fugue Icons by Yusuke Kamiyamane  
+Source: http://p.yusukekamiyamane.com/
+
+Image: title-icon2.png, info.png, close.png, error22x22.png, error32x32.png, titleicon2.png, favicon.png  
+By: Nuvola Icon Theme by David Vignoni  
+Source: http://www.icon-king.com
